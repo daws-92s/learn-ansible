@@ -15,3 +15,6 @@
       course: "ansible from task"
     debug:
       msg: "Hi, I am learning {{ course }}"
+
+# 1. CMD
+# 2. 
