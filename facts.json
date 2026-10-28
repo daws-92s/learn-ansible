@@ -855,7 +855,7 @@
             }
         ],
         "nodename": "ip-172-31-25-222.ec2.internal",
-        "os_family": "RedHat",
+        "ccccccccccc": "RedHat",
         "pkg_mgr": "dnf",
         "proc_cmdline": {
             "BOOT_IMAGE": "(hd0,gpt3)/vmlinuz-5.14.0-611.20.1.el9_7.x86_64",
