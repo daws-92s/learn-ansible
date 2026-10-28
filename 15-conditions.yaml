@@ -1,5 +1,6 @@
 - name: print OS is RedHat or not
   hosts: local
+  become: yes
   connection: local
   tasks:
   - name: Install nginx in RedHat
